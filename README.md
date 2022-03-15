@@ -7,6 +7,6 @@ The rules are as follows:
 >- Each code is UNIQUE. For example, 0123, 9548, and 3217 are valid codes, but 1102, 4445, and 7313 are not.
 >- Once the number has been generated, you have **10** chances to guess the code before you get locked out of the system. 
 <br />
-![Image from Gyazo](https://i.gyazo.com/901dec631ec0ed839c2bbc059121cbad.png)
+[![Image from Gyazo](https://i.gyazo.com/901dec631ec0ed839c2bbc059121cbad.png)](https://gyazo.com/901dec631ec0ed839c2bbc059121cbad)
 <br />
 
