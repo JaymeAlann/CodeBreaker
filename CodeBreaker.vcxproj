@@ -149,6 +149,11 @@
   <ItemGroup>
     <ClCompile Include="CodeBreaker.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\CodeBreakersLoss.png" />
+    <Image Include="..\CodeBreakersWin.png" />
+    <Image Include="..\InvalidInputs.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
