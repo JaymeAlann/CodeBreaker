@@ -1,5 +1,5 @@
-##CodeBreaker
-###Small console game based on the popular board game Mastermind!
+## CodeBreaker
+### Small console game based on the popular board game Mastermind!
 
 The rules are as follows: 
 <br/>
